@@ -24,6 +24,7 @@ nmap (installed on your OS)
 python-nmap Python module
 Install Python Module
 pip install python-nmap
+#Install Python Modulepip install python-nmap
 
 Install Nmap (Linux):
 
@@ -31,3 +32,4 @@ sudo apt update
 sudo apt install nmap
 
 python3 nmap_script.py
+
