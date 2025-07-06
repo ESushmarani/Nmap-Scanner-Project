@@ -32,3 +32,7 @@ sudo apt install nmap
 
 python3 nmap_script.py
 
+# print statement:
+ ****************************************
+    *        Nmap Scanner Project           *
+    ****************************************
