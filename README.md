@@ -1,8 +1,8 @@
-# Nmap-Scanner-Project
+# Nmap-Scanner-Project :
 python based nmap scanner script for scanning the network and reached hosts for understanding the tool..
 #  Real-World Applications:
 The Nmap Scanner Project is a valuable tool for monitoring, managing, and securing networks in real business, educational, and IT environments.
-# Technologies Used (Simple)
+# Technologies Used :
 Nmap – Main tool used to scan networks.
 
 Python – For writing automation scripts.
