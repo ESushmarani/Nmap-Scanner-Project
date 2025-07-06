@@ -28,6 +28,7 @@ pip install python-nmap
 Install Nmap (Linux):
 
 sudo apt update
+
 sudo apt install nmap
 
 python3 nmap_script.py
