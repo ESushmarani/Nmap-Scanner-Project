@@ -22,9 +22,8 @@ Make sure the following tools are installed on your system:
 * Python 3.x
 * nmap (installed on your OS)
 * python-nmap Python module
-* Install Python Module
-* pip install python-nmap
-# Install Python Modulepip install python-nmap :
+# Install Python Module
+pip install python-nmap
 
 Install Nmap (Linux):
 
